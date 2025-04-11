@@ -3,8 +3,8 @@
 **Software Developer | Full Stack Developer | Data Engineer Research Assistant**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darpansakhala/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/darpansakhala9)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square)](https://darpansakhala9.github.io) 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/darpan63)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square)](https://www.codewithdarpan.tech/) 
 
 ---
 
